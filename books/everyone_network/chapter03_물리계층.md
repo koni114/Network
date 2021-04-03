@@ -39,7 +39,7 @@
 ![img](https://github.com/koni114/Network/blob/master/img/network_10.JPG)
 
 - 크로스 케이블은 구리 선 8개 중 한쪽 커넥터의 1번과 2번에 연결되는 구리 선을 다른 쪽 커넥터의 3번과 6번에 연결한 케이블
-![img](https://github.com/koni114/Network/blob/master/img/network_11.JPG)
+![img](https://github.com/koni114/Network/blob/master/img/network_14.JPG)
 - 1,2,3,6번을 제외한 나머지 선은 사용하지 않음
 - 다이렉트 케이블은 컴퓨터와 스위치를 연결할 때 사용하며, 크로스 케이블은 컴퓨터 간의 직접 랜 케이블을 연결할 때 사용
 - 컴퓨터 간의 직접 데이터를 보낼 때는 양쪽 컴퓨터 모두 1번과 2번 선을 사용  
