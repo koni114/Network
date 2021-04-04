@@ -50,7 +50,7 @@
 - 스위치는 아래 그림과 같이 충돌이 일어나지 않는 구조로 되어 있기 때문에 전이중 통신 방식으로도 데이터를 주고 받을 수 있음
 ![img](https://github.com/koni114/Network/blob/master/img/network_19.JPG)
 - <b>허브를 사용하면 충돌이 생기면서 네트워크 지연이 발생하기 때문에 최근에는 스위치를 사용하는 것이 표준</b>
-- 허브에서 발생하는 충돌은 그 영향이 미치는 범위를 충돌 도메인(collision domain)이라고 함
+- 충돌의 영향이 미치는 범위를 충돌 도메인(collision domain)이라고 함
 - 아래 그림과 같이 허브는 연결되어 있는 컴퓨터 전체가 충돌 도메인이 됨
 ![img](https://github.com/koni114/Network/blob/master/img/network_20.JPG)
 - 스위치는 전이중 통신 방식이기 때문에 충돌 도메인의 영역이 각각의 컴퓨터에 해당됨
